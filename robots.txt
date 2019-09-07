@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aghahdaewi.ensofus.se/sitemap.xml
